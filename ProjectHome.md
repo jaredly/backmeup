@@ -1,0 +1,1 @@
+This is an easy backup tool for cPanel, featuring save settings and easy user interface
